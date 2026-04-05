@@ -1,6 +1,6 @@
 # About Me
 
-For now, I'm primarily just a hobbyist developer. Though I am slowly working toward pivotting into a new career in software development, as I try to finish up my bachelor's degree.
+For now, I'm primarily just a newbie programmer for fun. Though I am slowly working toward pivotting into a new career in software development, as I try to finish up my bachelor's degree.
 
 My Github is pretty empty right now, because I just made an account recently. I plan on eventually putting some of my code into some repositories here on Github.
 
