@@ -1,4 +1,12 @@
-## Hi there 👋
+# About Me
+
+For now, I'm primarily just a hobbyist developer. Though I am slowly working toward pivotting into a new career in software development, as I try to finish up my bachelor's degree.
+
+My Github is pretty empty right now, because I just made an account recently. I plan on eventually putting some of my code into some repositories here on Github.
+
+Historically, I have worked mostly in Python, Java, and more recently, Javascript. Though I am open to learning other languages if necessary. I am most interested and application and game development.
+
+I'll be updating my profile when I have new stuff to present. Just know it will be a slow process, as I like to take my time.
 
 <!--
 **WDCooper/WDCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
